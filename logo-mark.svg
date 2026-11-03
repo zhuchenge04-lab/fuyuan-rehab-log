@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" role="img" aria-labelledby="title">
+  <title id="title">复元图标</title>
+  <rect x="12" y="12" width="120" height="120" rx="36" fill="#315c4b"/>
+  <path d="M45 97 97 45M70 43h29v29" fill="none" stroke="#d6e99b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
