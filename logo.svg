@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 160" role="img" aria-labelledby="title desc">
+  <title id="title">复元</title>
+  <desc id="desc">深绿色圆角方形中的浅绿色上升箭头，搭配深色复元字样和浅绿色圆点。</desc>
+  <rect x="12" y="20" width="120" height="120" rx="36" fill="#315c4b"/>
+  <path d="M45 105 97 53M70 51h29v29" fill="none" stroke="#d6e99b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="158" y="111" fill="#222a25" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Noto Sans SC','Microsoft YaHei',sans-serif" font-size="74" font-weight="800" letter-spacing="-3">复元</text>
+  <circle cx="322" cy="119" r="8" fill="#91b567"/>
+</svg>
